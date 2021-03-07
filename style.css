@@ -1,0 +1,145 @@
+body {
+    text-align: center;
+    background: linear-gradient(azure 60%, darkturquoise 100%);
+    color: white;
+}
+
+h1 {
+    font-family: 'Amatic SC', cursive;
+    color: darkturquoise;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    color: azure;
+}
+
+h3 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+}
+
+img {
+    width: 230px;
+    height: 300px;
+    border-radius: 20px;
+    padding: 10px;
+    z-index: 2px;
+    margin-top: 100px;
+}
+
+.menu {
+    list-style: none;
+    font-family: 'Amatic SC', cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: darkturquoise;
+    font-size: 30px;
+    position: fixed;
+    z-index: 2px;
+}
+
+.link {
+    display: inline;
+    color: darkturquoise;
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h1 {
+    color: azure;
+}
+
+h2 {
+    color: darkturquoise;
+}
+
+.info {
+    color: azure;
+}
+
+#about {
+    background-color: darkturquoise;
+    width: 100%;
+    height: 500px;
+}
+
+#hobby {
+    background-color: darkturquoise;
+    width: 100%;
+    height: 500px;
+}
+
+.title {
+    color: darkturquoise;
+}
+
+#welcome {
+    width: 100%;
+    height: 250px;
+}
+
+#work {
+    background-color: darkturquoise;
+    width: 100%;
+    height: 2000px;
+}
+
+.profilepic {
+    width: 230px;
+    height: 300px;
+    border-radius: 20px;
+    border-color: darkturquoise;
+    border-style: solid;
+    padding: 10px;
+    z-index: 2px;
+    margin-top: 100px;
+}
+
+.artworkline {
+    margin: 25px;
+    display: inline-flex;
+}
+
+p {
+    font-size: 30px;
+    font-family: 'Amatic SC', cursive;
+}
+
+.inspitext {
+    color: azure;
+    display: inline-flex;
+    margin: 130px;
+    font-size: 40px;
+}
+
+#inspiration {
+    background-color: darkturquoise;
+    width: 100%;
+    height: 2000px;
+}
+
+#contact {
+    background-color: darkturquoise;
+    width: 100%;
+    height: 1000px;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+  color:azure;
+}
